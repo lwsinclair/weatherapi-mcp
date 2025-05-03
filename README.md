@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/swonixs-weatherapi-mcp-badge.png)](https://mseep.ai/app/swonixs-weatherapi-mcp)
+
 # WeatherAPI MCP Server
 
 An MCP server that provides current weather and air quality data using WeatherAPI.
